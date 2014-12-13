@@ -63,6 +63,12 @@ AngularJS is an open-source web application framework, maintained by Google and 
 - [Hacker News discussion on Angular 2](https://news.ycombinator.com/item?id=8507632)
 - [Preparing for the future of AngularJS](https://www.airpair.com/angularjs/posts/preparing-for-the-future-of-angularjs)
 
+###Example code
+- [Angular app](https://github.com/angular-app/angular-app)
+- [Angular seed](https://github.com/angular/angular-seed)
+- [Ng boilerplate](https://github.com/ngbp/ngbp)
+- [Mean chat](https://github.com/DaftMonk/mean-chat)
+
 ###Testing
 - [Protractor (E2E testing)](https://github.com/angular/protractor)
 - [Karma](http://karma-runner.github.io/0.12/index.html)
