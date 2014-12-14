@@ -58,16 +58,20 @@ AngularJS is an open-source web application framework, maintained by Google and 
 - [Setting up an Angular and Node environment for development and production](http://start.jcolemorrison.com/how-i-setup-angular-node-projects/)
 - [How to use environment variables in your Angular application](http://mindthecode.com/how-to-use-environment-variables-in-your-angular-application/)
 
-###Angular 2.0
-- [Ng-conf](https://www.youtube.com/watch?v=gNmWybAyBHI)
-- [Hacker News discussion on Angular 2](https://news.ycombinator.com/item?id=8507632)
-- [Preparing for the future of AngularJS](https://www.airpair.com/angularjs/posts/preparing-for-the-future-of-angularjs)
+###News
+- [The AngularJS Magazine](https://flipboard.com/section/the-angularjs-magazine-bbIMWS)
+- [AngylarJS News](https://twitter.com/angularjs_news)
 
 ###Example code
 - [Angular app](https://github.com/angular-app/angular-app)
 - [Angular seed](https://github.com/angular/angular-seed)
 - [Ng boilerplate](https://github.com/ngbp/ngbp)
 - [Mean chat](https://github.com/DaftMonk/mean-chat)
+
+###Angular 2.0
+- [Ng-conf](https://www.youtube.com/watch?v=gNmWybAyBHI)
+- [Hacker News discussion on Angular 2](https://news.ycombinator.com/item?id=8507632)
+- [Preparing for the future of AngularJS](https://www.airpair.com/angularjs/posts/preparing-for-the-future-of-angularjs)
 
 ###Testing
 - [Protractor (E2E testing)](https://github.com/angular/protractor)
