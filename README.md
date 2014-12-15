@@ -19,6 +19,7 @@ AngularJS is an open-source web application framework, maintained by Google and 
 
 ###Design patterns/best practice
 - [Angular design patterns and best practices](http://trochette.github.io/Angular-Design-Patterns-Best-Practices/#/intro)
+- [AngularJS in Patterns](https://github.com/mgechev/angularjs-in-patterns)
 - [Angular best practices: I've been doing it all wrong](http://www.artandlogic.com/blog/2013/05/ive-been-doing-it-wrong-part-1-of-3/)
 - [Promises And Design Patterns In AngularJS](http://blog.xebia.com/2014/02/23/promises-and-design-patterns-in-angularjs/)
 - [Best Practice Recommendations for Angular App Structure (Google)](https://docs.google.com/document/d/1XXMvReO8-Awi1EZXAXS4PzDzdNvV6pGcuaF4Q9821Es/pub)
