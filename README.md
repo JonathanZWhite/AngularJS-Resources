@@ -38,6 +38,7 @@ AngularJS is an open-source web application framework, maintained by Google and 
 
 ###Directives
 - [A Practical Guide to Angular Directives](http://www.sitepoint.com/practical-guide-angularjs-directives/)
+- [Creating Custom AngularJS Directives (series)](http://weblogs.asp.net/dwahlin/creating-custom-angularjs-directives-part-i-the-fundamentals)
 - [Directives - difference between controller and link](http://jasonmore.net/angular-js-directives-difference-controller-link/)
 - [Difference between the 'controller', 'link' and 'compile' functions when defining an angular.js directive](http://stackoverflow.com/questions/12546945/difference-between-the-controller-link-and-compile-functions-when-definin)
 - [Angular Directive Best Practices](http://www.jeremyzerr.com/angularjs-directive-best-practices)
