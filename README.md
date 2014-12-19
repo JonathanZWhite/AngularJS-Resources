@@ -81,3 +81,4 @@ AngularJS is an open-source web application framework, maintained by Google and 
 
 ###Misc
 - [Speeding up AngularJS apps with simple optimizations](http://www.binpress.com/tutorial/speeding-up-angular-js-with-simple-optimizations/135)
+- [AngularJS Form Validation](http://scotch.io/tutorials/javascript/angularjs-form-validation)
