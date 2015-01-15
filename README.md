@@ -35,6 +35,7 @@ AngularJS is an open-source web application framework, maintained by Google and 
 - [Sharing Data Between Controllers](http://www.thinkster.io/angularjs/9jfpSmbx1j/angularjs-sharing-data-between-controllers)
 - [The state of angularjs controllers](http://jonathancreamer.com/the-state-of-angularjs-controllers/)
 - [Rethinking AngularJS Controllers](http://toddmotto.com/rethinking-angular-js-controllers/)
+- [Making Skinny AngularJS Controllers](https://scotch.io/tutorials/making-skinny-angularjs-controllers)
 
 ###Directives
 - [A Practical Guide to Angular Directives](http://www.sitepoint.com/practical-guide-angularjs-directives/)
