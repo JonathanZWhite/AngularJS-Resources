@@ -63,7 +63,7 @@ AngularJS is an open-source web application framework, maintained by Google and 
 
 ###News
 - [The AngularJS Magazine](https://flipboard.com/section/the-angularjs-magazine-bbIMWS)
-- [AngularJS News](https://twitter.com/angularjs_news)
+- [AngularJS News](https://twitter.com/tubame_694)
 
 ###Example code
 - [Angular app](https://github.com/angular-app/angular-app)
