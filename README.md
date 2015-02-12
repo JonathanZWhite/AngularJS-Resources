@@ -58,6 +58,10 @@ AngularJS is an open-source web application framework, maintained by Google and 
 - [NgTokenAuth - simple, secure authentication for AngularJS](https://github.com/lynndylanhurley/ng-token-auth)
 - [Satellizer - simple to use, end-to-end, token-based authentication module for AngularJS](https://github.com/sahat/satellizer)
 
+###Performance 
+- [Speeding up AngularJS apps with simple optimizations](http://www.binpress.com/tutorial/speeding-up-angular-js-with-simple-optimizations/135)
+- [AngularJS Performance in Large Applications](https://www.airpair.com/angularjs/posts/angularjs-performance-large-applications)
+
 ###Deployment
 - [Setting up an Angular and Node environment for development and production](http://start.jcolemorrison.com/how-i-setup-angular-node-projects/)
 - [How to use environment variables in your Angular application](http://mindthecode.com/how-to-use-environment-variables-in-your-angular-application/)
@@ -84,7 +88,6 @@ AngularJS is an open-source web application framework, maintained by Google and 
 - [Karma](http://karma-runner.github.io/0.12/index.html)
 
 ###Misc
-- [Speeding up AngularJS apps with simple optimizations](http://www.binpress.com/tutorial/speeding-up-angular-js-with-simple-optimizations/135)
 - [Form validation with AngularJS](http://www.ng-newsletter.com/posts/validations.html)
 - [AngularJS Form Validation](http://scotch.io/tutorials/javascript/angularjs-form-validation)
 - [Meligy’s AngularJS & Web Dev Goodies Newsletter - GuruStop.NET](http://gurustop.net/newsletter)
