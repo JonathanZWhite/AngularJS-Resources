@@ -4,6 +4,7 @@ AngularJS is an open-source web application framework, maintained by Google and 
 ###Motivation
 - [How is AngularJS different from jQuery](http://stackoverflow.com/questions/13151725/how-is-angularjs-different-from-jquery)
 - [From jQuery to Angular mindset](http://stackoverflow.com/questions/14994391/how-do-i-think-in-angularjs-if-i-have-a-jquery-background)
+- [Understanding MVC, MVP, and MVVM](http://stackoverflow.com/questions/2056/what-are-mvp-and-mvc-and-what-is-the-difference)
 
 ###Getting Started
 - [Angular-cat](https://docs.angularjs.org/tutorial/step_00)
