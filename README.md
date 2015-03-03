@@ -24,6 +24,7 @@ AngularJS is an open-source web application framework, maintained by Google and 
 - [Angular best practices: I've been doing it all wrong](http://www.artandlogic.com/blog/2013/05/ive-been-doing-it-wrong-part-1-of-3/)
 - [Promises And Design Patterns In AngularJS](http://blog.xebia.com/2014/02/23/promises-and-design-patterns-in-angularjs/)
 - [Best Practice Recommendations for Angular App Structure (Google)](https://docs.google.com/document/d/1XXMvReO8-Awi1EZXAXS4PzDzdNvV6pGcuaF4Q9821Es/pub)
+- [AngularJS Best Practices #001: Constants](http://twofuckingdevelopers.com/2014/06/angularjs-best-practices-001-constants/)
 
 ###Scopes
 - [Understanding Scopes](https://github.com/angular/angular.js/wiki/Understanding-Scopes)
