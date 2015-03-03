@@ -53,6 +53,7 @@ AngularJS is an open-source web application framework, maintained by Google and 
 
 ###Routing
 - [AngularJS Routing Using UI-Router](http://scotch.io/tutorials/javascript/angular-routing-using-ui-router)
+- [Advanced routing and resolves](https://medium.com/opinionated-angularjs/advanced-routing-and-resolves-a2fcbf874a1c)
 
 ###Authentication
 - [Authentication in Single Page Applications](https://vickev.com/#!/article/authentication-in-single-page-applications-node-js-passportjs-angularjs)
