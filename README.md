@@ -15,8 +15,9 @@ AngularJS is an open-source web application framework, maintained by Google and 
 - [Year of - Moo AngularJS tutorials](http://www.yearofmoo.com/)
 
 ###Style
-- [AngularJS Style Guide](https://github.com/johnpapa/angularjs-styleguide)
-- [Angular Styleguide](https://github.com/toddmotto/angularjs-styleguide)
+- [John Papa - AngularJS Style Guide](https://github.com/johnpapa/angularjs-styleguide)
+- [Todd Motto - AngularJS Style Guide](https://github.com/toddmotto/angularjs-styleguide)
+- [Gocardless - AngularJS Style Guide](https://github.com/gocardless/angularjs-style-guide)
 
 ###Design patterns/best practice
 - [Angular design patterns and best practices](http://trochette.github.io/Angular-Design-Patterns-Best-Practices/#/intro)
