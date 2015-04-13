@@ -31,6 +31,7 @@ AngularJS is an open-source web application framework, maintained by Google and 
 - [Understanding Scopes](https://github.com/angular/angular.js/wiki/Understanding-Scopes)
 
 ###Data modeling
+- [Sharing Data in an Angular Controller or an Angular Service](http://www.johnpapa.net/sharing-data-in-an-angular-controller-or-an-angular-service/)
 - [AngularJS Data Modeling (video series)](https://egghead.io/series/angularjs-data-modeling)
 - [AngularJS Data Models: $http VS $resource VS Restangular](http://sauceio.com/index.php/2014/07/angularjs-data-models-http-vs-resource-vs-restangular/)
 - [Rich Object Models and Angular.js](http://blog.shinetech.com/2014/02/04/rich-object-models-and-angular-js/)
