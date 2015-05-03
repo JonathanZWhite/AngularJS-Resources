@@ -89,6 +89,7 @@ AngularJS is an open-source web application framework, maintained by Google and 
 - [Preparing for the future of AngularJS](https://www.airpair.com/angularjs/posts/preparing-for-the-future-of-angularjs)
 
 ###Testing
+- [Testing Angular with Karma](https://www.airpair.com/angularjs/posts/testing-angular-with-karma)
 - [Protractor (E2E testing)](https://github.com/angular/protractor)
 - [AngularJS Getting Started with Protractor](https://egghead.io/lessons/angularjs-getting-started-with-protractor)
 - [Karma](http://karma-runner.github.io/0.12/index.html)
