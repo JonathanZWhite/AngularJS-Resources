@@ -8,7 +8,7 @@ AngularJS is an open-source web application framework, maintained by Google and 
 
 ###Getting Started
 - [Angular-cat](https://docs.angularjs.org/tutorial/step_00)
-- [AngularJS Tutorial: A Comprehensive 10,000 Word Guide](http://www.airpair.com/angularjs)
+- [AngularJS Tutorial: A Comprehensive 10,000 Word Guide](https://www.airpair.com/angularjs/posts/angularjs-tutorial)
 - [Angular in 60-ish minutes (video)](https://www.youtube.com/watch?v=i9MHigUZKEM)
 - [Scotch - AngularJS tutorials](http://scotch.io/tag/angular-js)
 - [Egghead - AngularJS tutorials](https://egghead.io/technologies/angularjs)
