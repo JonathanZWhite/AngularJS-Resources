@@ -50,6 +50,7 @@ AngularJS is an open-source web application framework, maintained by Google and 
 - [Difference between the 'controller', 'link' and 'compile' functions when defining an angular.js directive](http://stackoverflow.com/questions/12546945/difference-between-the-controller-link-and-compile-functions-when-definin)
 - [Angular Directive Best Practices](http://www.jeremyzerr.com/angularjs-directive-best-practices)
 - [The Many Ways To Use ngClass](https://scotch.io/tutorials/the-many-ways-to-use-ngclass)
+- [AngularJS Directives, Using Isolated Scope with Attributes](https://umur.io/angularjs-directives-using-isolated-scope-with-attributes/)
 
 ###Services/Factories
 - [Angular.service vs angular.factory](http://stackoverflow.com/questions/14324451/angular-service-vs-angular-factory)
