@@ -1,6 +1,8 @@
 #[Angular](https://angularjs.org/)
 AngularJS is an open-source web application framework, maintained by Google and community, that assists with creating single-page applications, one-page web applications that only require HTML, CSS, and JavaScript on the client side. Its goal is to augment web applications with model–view–controller (MVC) capability, in an effort to make both development and testing easier.
 
+Have a question about Angular? Shoot me Tweet [@JonathanZWhite](https://twitter.com/JonathanZWhite). I answer every tweet. 
+
 ###Motivation
 - [How is AngularJS different from jQuery](http://stackoverflow.com/questions/13151725/how-is-angularjs-different-from-jquery)
 - [From jQuery to Angular mindset](http://stackoverflow.com/questions/14994391/how-do-i-think-in-angularjs-if-i-have-a-jquery-background)
