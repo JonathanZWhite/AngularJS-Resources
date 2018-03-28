@@ -10,6 +10,7 @@ Have a question about Angular? Shoot me Tweet [@JonathanZWhite](https://twitter.
 
 ### Getting Started
 - [Angular-cat](https://docs.angularjs.org/tutorial/step_00)
+- [Programming Community Curated Resources for Learning Angular](https://hackr.io/tutorials/learn-angular)
 - [AngularJS Tutorial: A Comprehensive 10,000 Word Guide](https://www.airpair.com/angularjs/posts/angularjs-tutorial)
 - [Angular in 60-ish minutes (video)](https://www.youtube.com/watch?v=i9MHigUZKEM)
 - [Scotch - AngularJS tutorials](http://scotch.io/tag/angular-js)
