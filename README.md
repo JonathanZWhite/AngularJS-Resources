@@ -105,3 +105,4 @@ Have a question about Angular? Shoot me Tweet [@JonathanZWhite](https://twitter.
 - [AngularJS Form Validation](http://scotch.io/tutorials/javascript/angularjs-form-validation)
 - [Angular with FLUX](https://github.com/christianalfoni/flux-angular)
 - [Meligy’s AngularJS & Web Dev Goodies Newsletter - GuruStop.NET](http://gurustop.net/newsletter)
+- [Angular Developer Roadmap](https://roadmap.sh/angular)
